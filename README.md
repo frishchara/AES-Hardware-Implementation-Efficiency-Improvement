@@ -31,7 +31,7 @@ By modifying the computation method, the speed of AES key generation is improved
 3. 使用Python 介面餵資料進行驗證  
 
 ## 📑 專案報告
-完整說明請見 [AES 硬體實現效率提升報告 (PDF)](docs/aes_report.pdf)
+完整說明請見 [AES 硬體實現效率提升報告 (PDF)](aes_report.pdf)
 
 ## 📌 未來改進
 - 加入 AES-192/256 支援  
